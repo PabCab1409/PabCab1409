@@ -5,8 +5,8 @@
 ##### About me 🧠
 
 - 🏫 I'm currently studying at **IES Julio Verne**
-- ⚙️ I use daily: `.JAVA`, `.cs`, `SQL`, `Android Studio`
-- 🌱 Learning all about **Oriented Object Programming**
+- ⚙️ I use daily: `.JAVA`, `.cs`, `SQL`, `React`, `JavaScript`
+- 🌱 Learning all about **Front-end and Back-end**
 - 💬 Ping me about **software development**
 - 📫 Reach me: 
   - pcjt1409@gmail.com
