@@ -5,7 +5,7 @@
 ##### About me 🧠
 
 - 🏫 I'm currently studying at **IES Julio Verne**
-- ⚙️ I use daily: `.JAVA`, `.cs`, `SQL`, `React`, `JavaScript`
+- ⚙️ I use daily: `.JAVA`, `.js`, `.cs`, `SQL`, `React`
 - 🌱 Learning all about **Front-end and Back-end**
 - 💬 Ping me about **software development**
 - 📫 Reach me: 
