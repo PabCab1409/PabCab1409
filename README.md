@@ -11,3 +11,6 @@
 - 📫 Reach me: 
   - pcjt1409@gmail.com
   
+#### CHECK MY TWITTER BOT 🤖
+[@BotJoseju](https://twitter.com/BotJoseju)
+  
