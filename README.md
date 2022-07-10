@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">I'm trying to be a solo developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/botjoseju" target="blank"><img src="https://img.shields.io/twitter/follow/botjoseju?logo=twitter&style=for-the-badge" alt="botjoseju" /></a> </p>
 
 - 🔭 I’m currently working on **learning all the possible stuff**
 
@@ -14,9 +13,7 @@
 - 📫 How to reach me **pcjt1409@gmail.com**
 
 <h3 align="left">Check my twitter bot!!</h3>
-<p align="left">
-<a href="https://twitter.com/botjoseju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="botjoseju" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://twitter.com/botjoseju" target="blank"><img src="https://img.shields.io/twitter/follow/botjoseju?logo=twitter&style=for-the-badge" alt="botjoseju" /></a> </p>
 
 <h3 align="left">Reach me on LinkedIn for professional purposes</h3>
 <p align="left">
